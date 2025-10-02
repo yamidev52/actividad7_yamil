@@ -3,6 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-
+    <!-- colors palette -->
+    <color name="sage_green">#ccd5ae</color>
+    <color name="beige_light">#e9edc9</color>
+    <color name="cream">#fefae0</color>
+    <color name="sand">#faedcd</color>
+    <color name="brown_accent">#d4a373</color>
 
 </resources>
