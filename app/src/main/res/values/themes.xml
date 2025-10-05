@@ -10,6 +10,7 @@
         <item name="color">@color/brown_accent</item>
 
         <item name="android:fontFamily">@font/monserratnormal</item>
+
     </style>
 
     <style name="Theme.Actividad7" parent="Base.Theme.Actividad7" />
