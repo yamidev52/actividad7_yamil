@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">actividad7</string>
+    <string name="precio_del_producto">Precio del producto</string>
+    <string name="descripci_n_del_producto">Descripción del producto</string>
+    <string name="ver_en_web">Ver en Web</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
 </resources>
